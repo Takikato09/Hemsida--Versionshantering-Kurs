@@ -15,7 +15,7 @@ p {
 }
 
 a {
-    color: pink;
+    color: black;
     display: flex;
     justify-content: space-around;
     margin: 10px;
